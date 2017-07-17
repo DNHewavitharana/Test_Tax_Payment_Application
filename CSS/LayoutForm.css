@@ -1,0 +1,22 @@
+.AddFormLabel {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:16px;
+	margin-left:20px;
+}
+
+#OwnerName {
+	width:220px;
+}
+
+#AssesmentNo {
+	width:50px;
+}
+
+#AssestValue {
+	width:100px;
+}
+
+.AddFormInput {
+	line-height:20px;
+	border-radius:4px;
+}
